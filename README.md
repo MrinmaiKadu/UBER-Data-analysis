@@ -11,7 +11,7 @@ Insights from Uber Dataset
    - Implemented rigorous handling procedures for missing values and errors, employing techniques such as imputation and validation to maintain data integrity and reliability throughout the dataset.
 
 2. Generating Pivot Tables and Charts
-
+(the following Dashboard)
 
 ## Dashboard :
 ![image](https://github.com/MrinmaiKadu/UBER-Data-analysis/assets/94920967/f72f1010-5848-43b8-bca3-911ded1f77c5)
